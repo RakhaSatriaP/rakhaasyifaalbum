@@ -180,6 +180,10 @@ body {
     padding-bottom: 60px;
 }
 
+.grid .desc5{
+    width: 400px;
+}
+
 @media (max-width: 767px) {
     .container-main {
         width: 100%;
